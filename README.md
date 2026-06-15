@@ -11,19 +11,19 @@ The most notable findings were that mammals were most commonly found as roadkill
 
 ### Repository Organization
 
-##### data
+#### data
 
 data_documentation.md - Where to find the data used in the project
 
-##### notebooks
+#### notebooks
 
 project.ipynb - Code used in analysis
 
-##### presentation
+#### presentation
 
 bootcamp_project_presentation.pdf - PDF of presentation slides
 
-##### figures
+#### figures
 
 1. animal_class_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Animal Class
 2. animal_class_map.png - Map of plotted roadkill instances colored by animal class
