@@ -23,7 +23,8 @@ project.ipynb - Code used in analysis
 
 bootcamp_project_presentation.pdf - PDF of presentation slides
 
-##### 
+##### figures
+
 animal_class_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Animal Class
 animal_class_map.png - Map of plotted roadkill instances colored by animal class
 detection_times_histogram.png - Bar Chart of Distribution of Roadkill Detection Times
