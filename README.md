@@ -7,7 +7,7 @@ Two datasets were used:
 2. The data concerning the IUCN Red List categories of species was obtained from https://www.iucnredlist.org/
 
 ### Findings
-The most notable findings were that mammals were msot commonly found as roadkill, the road segment Chaco had the most roadkill, and that there seem to be some spatial patterns in the class (in the sense of taxonomy) of roadkill found along the roads. Also, most of the roadkill who's species could be fully identified from the data or inferred from the cleaning process were species of Least Concern.
+The most notable findings were that mammals were most commonly found as roadkill, the road segment Chaco had the most roadkill, and that there seems to be some spatial patterns in the class (in the sense of taxonomy) of roadkill found along the roads. Also, most of the roadkill who's species could be fully identified from the data or inferred from the cleaning process were species of Least Concern.
 
 ### Repository Organization
 
