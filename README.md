@@ -25,9 +25,9 @@ bootcamp_project_presentation.pdf - PDF of presentation slides
 
 ##### figures
 
-animal_class_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Animal Class
-animal_class_map.png - Map of plotted roadkill instances colored by animal class
-detection_times_histogram.png - Bar Chart of Distribution of Roadkill Detection Times
-red_list_category_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Red List Category
-road_segment_distribution_bar_graph.png - Bar Chart of Distribution of Roadkill by Road Segment
-road_segment_map.png - Map of plotted roadkill instances colored by road segment
+1. animal_class_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Animal Class
+2. animal_class_map.png - Map of plotted roadkill instances colored by animal class
+3. detection_times_histogram.png - Bar Chart of Distribution of Roadkill Detection Times
+3. red_list_category_distribution_bar_chart.png - Bar Chart of Distribution of Roadkill by Red List Category
+4. road_segment_distribution_bar_graph.png - Bar Chart of Distribution of Roadkill by Road Segment
+5. road_segment_map.png - Map of plotted roadkill instances colored by road segment
