@@ -1,0 +1,446 @@
+﻿Code,mmddyy,Road_segement,Class,Order,Family,Species,UTMzone,Xcoordinate,Ycoordinate,Time,Altitud_m,Land_cover
+D50PA81,6/28/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,169704,9951770,12:05,2167,S
+D60CO125,7/26/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Marmosops sp.,18M,180179,9936688,10:43,1956,S
+D60CO126,7/26/14,Cotundo,Aves,Passeriformes,,,18M,180252,9945735,11:02,1886,S
+D60PA96,7/26/14,Papallacta,Mammalia,Rodentia,,,17M,822167,9959060,15:52,2882,S
+D48PA74,6/21/14,Papallacta,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,17M,828727,9955704,8:57,2515,S
+D72CH218,8/21/14,Chaco,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,179031,9950016,15:05,1870,S/F
+D61CO129,7/27/14,Cotundo,Aves,,,,18M,180239,9945728,11:56,1884,S/F
+D62CO133,2/8/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180322,9948819,12:03,1919,S/F
+D49CO110,6/22/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Metachirus nudicaudatus,18M,180378,9946637,9:57,1874,S/F
+D57CO119,7/19/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179119,9941360,11:36,1874,P/S
+D59CH181,7/25/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179135,9949969,9:55,1854,P/S
+D59CO121,7/25/14,Cotundo,Aves,Cuculiformes,Cuculidae,Crotophaga ani,18M,179655,9948683,14:41,1882,P/S
+D59CO123,7/25/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180375,9947172,15:56,1845,P/S
+D62CO137,2/8/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180401,9947290,13:24,1841,P/S
+D62CO138,2/8/2014,Cotundo,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,180407,9947321,13:26,1837,P/S
+D62CH188,2/8/2014,Chaco,Mammalia,Carnivora,Mustelidae,Mustela frenata,18M,186001,9958717,16:29,1586,P/S
+D72CH219,8/21/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,186105,9957142,15:22,1606,P/S
+D71CH213,8/20/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186195,9960968,15:38,1607,P/S
+D1PA3,6/3/2014,Papallacta,Aves,Passeriformes,Icteridae,Cacicus sp.,18M,167900,9952701,11:45,2255,F
+D13PA27,3/29/14,Papallacta,Aves,Passeriformes,,,18M,173558,9949494,13:51,2603,F
+D2PA5,7/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,173833,9949214,17:47,1924,F
+D1PA2,6/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174101,9948863,11:29,1943,F
+D1PA1,6/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174354,9948726,11:21,1908,F
+D67PA103,8/15/14,Papallacta,Mammalia,Carnivora,Felidae,Leopardus tigrinus,18M,174748,9948871,12:06,1884,F
+D11PA21,3/27/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174872,9948914,15:43,1904,F
+D66PA102,10/8/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174879,9948946,9:36,2072,F
+D40CO88,5/31/14,Cotundo,Mammalia,Rodentia,Cricetidae,,18M,177895,9948802,11:51,1918,F
+D40CO89,5/31/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,177897,9948766,11:59,1923,F
+D14CH37,3/30/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas peruana,18M,179135,9949954,12:19,1865,F
+D45CO105,6/14/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179137,9941607,13:48,1887,F
+D67C0147,8/15/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179138,9941604,11:22,1888,F
+D24CO33,4/18/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,180340,9945919,10:47,1861,F
+D32CO56,4/5/2014,Cotundo,Mammalia,Rodentia,Cricetidae,,18M,180444,9946508,10:24,1862,F
+D39CO83,5/30/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180454,9947497,15:55,1845,F
+D19CO23,11/4/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180592,9936263,11:07,1969,F
+D72CO155,8/21/14,Cotundo,Mammalia,Chiroptera,Vespertilionidae,,18M,180876,9947768,9:59,1875,F
+D39CO86,5/30/14,Cotundo,Reptilia,Squamata,,,18M,180909,9947580,16:00,1848,F
+D40CO90,5/31/14,Cotundo,Reptilia,Squamata,Colubridae,Chironius sp.,18M,180910,9947881,12:10,1881,F
+D32CO60,4/5/2014,Cotundo,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,183015,9933976,11:06,2047,F
+D5CO7,10/3/2014,Cotundo,Reptilia,Squamata,N/I,N/I,18M,183934,9931532,12:07,2226,F
+D23CO27,4/17/14,Cotundo,Reptilia,Squamata,Colubridae,Chironius sp.,18M,183970,9931273,12:55,2285,F
+D30CO48,2/5/2014,Cotundo,Reptilia,Squamata,Colubridae,,18M,184054,9931779,13:16,2195,F
+D67CH209,8/15/14,Chaco,Mammalia,Rodentia,,,18M,184251,9955180,16:37,1670,F
+D15CO19,7/4/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184753,9931085,15:12,2233,F
+D7CO10,12/3/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184984,9931163,14:58,2223,F
+D2CH6,7/3/2014,Chaco,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,185718,9956159,12:22,1622,F
+D3CH17,8/3/2014,Chaco,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,186148,9958582,14:18,1595,F
+D3CH16,8/3/2014,Chaco,Mammalia,N/I,N/I,N/I,18M,186159,9958592,14:17,1599,F
+D34CH82,5/16/14,Chaco,Mammalia,Chiroptera,,,18M,186166,9958662,11:37,1601,F
+D34CH81,5/16/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186179,9958649,11:34,1592,F
+D39CO82,5/30/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186273,9931494,15:01,2157,F
+D47CH139,6/20/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,190098,9966513,10:04,1504,F
+D15CH41,7/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190177,9966871,16:59,1523,F
+D15CH40,7/4/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,190196,9966910,16:57,1531,F
+D54CH163,11/7/2014,Chaco,Aves,,,,18M,190736,9967558,10:33,1587,F
+D55CH167,12/7/2014,Chaco,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,190862,9968017,11:51,1618,F
+D52CH160,5/7/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190941,9966840,14:07,1727,F
+D47CH138,6/20/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190950,9966861,9:33,1732,F
+D20CH51,12/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,191004,9967614,10:06,1692,F
+D63CH192,3/8/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,191177,9967179,10:48,1735,F
+D72CH220,8/21/14,Chaco,Mammalia,Chiroptera,,,18M,191593,9968000,16:19,1793,F
+D20CH52,12/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,191856,9968408,10:34,1847,F
+D16CH44,8/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,191861,9968414,10:27,1811,F
+D3CH15,8/3/2014,Chaco,Mammalia,Carnivora,Procyonidae,Potos flavus,18M,191897,9968460,13:15,1855,F
+D5CH19,10/3/2014,Chaco,Reptilia,Squamata,Colubridae,,18M,191999,9968664,7:50,1844,F
+D30CH70,2/5/2014,Chaco,Reptilia,Squamata,Colubridae,Clelia sp.,18M,192418,9969392,10:43,1914,F
+D11PA25,3/27/14,Papallacta,Mammalia,Carnivora,Mephitidae,Conepatus semistriatus,17M,821838,9959112,17:14,2920,F
+D3PA7,8/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,824380,9959377,7:57,2780,F
+D37PA54,5/24/14,Papallacta,Mammalia,Carnivora,Mustelidae,Mustela frenata,17M,825022,9958936,13:04,2750,F
+D71PA120,8/20/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,829910,9954630,14:27,2472,F
+D54PA88,11/7/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,832768,9953478,12:15,2399,F
+D62PA99,2/8/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,166687,9952742,11:16,2327,S/F
+D69PA109,8/18/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,168053,9952613,15:39,2242,S/F
+D69PA108,8/18/14,Papallacta,Aves,Passeriformes,,,18M,173875,9949167,15:22,1929,S/F
+D60PA93,7/26/14,Papallacta,Aves,Passeriformes,,,18M,174196,9948710,15:05,1908,S/F
+D53PA87,6/7/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174661,9948835,9:24,1891,S/F
+D60CO127,7/26/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180228,9945686,11:06,1878,S/F
+D52CH159,5/7/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186110,9958415,13:39,1580,S/F
+D67CH207,8/15/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,192335,9969266,15:58,1900,S/F
+D70PA114,8/19/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820380,9958371,11:38,2975,S/F
+D72PA123,8/21/14,Papallacta,Aves,Passeriformes,,,17M,820791,9958685,12:53,2952,S/F
+D45PA70,6/14/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,824573,9959348,9:07,2809,S/F
+D62PA97,2/8/2014,Papallacta,Aves,Passeriformes,Turdidae,Platycichla leucops,17M,826308,9957736,10:48,2681,S/F
+D39CO85,5/30/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180532,9947583,16:01,1866,U/F
+D39CO84,5/30/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180536,9947580,16:00,1848,U/F
+D20CO24,12/4/2014,Cotundo,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,18M,179593,9939801,12:47,1922,F/C
+D15CO18,7/4/2014,Cotundo,Aves,,,,18M,182711,9934381,14:29,2022,F/C
+D5PA10,10/3/2014,Papallacta,Reptilia,Squamata,Colubridae,Chironius sp.,18M,168160,9952632,14:13,2296,P/F
+D15PA29,7/4/2014,Papallacta,Reptilia,Squamata,Colubridae,,18M,168867,9952868,12:20,2222,P/F
+D71PA117,8/20/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,168870,9952864,13:19,2213,P/F
+D37PA57,5/24/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,169097,9952804,14:07,2207,P/F
+D71PA121,8/20/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,169212,9952580,14:43,2210,P/F
+D22PA33,4/16/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,170203,9952127,9:37,2185,P/F
+D51PA85,6/29/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Marmosops sp.,18M,174416,9948757,14:34,1915,P/F
+D37PA53,5/24/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174531,9948799,12:28,1912,P/F
+D49PA76,6/22/14,Papallacta,Mammalia,Rodentia,Echimyidae,,18M,175801,9948431,15:02,1850,P/F
+D70PA112,8/19/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176350,9948729,10:43,1842,P/F
+D3PA9,8/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176368,9948746,9:16,1834,P/F
+D51CH158,6/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177461,9949063,11:47,1795,P/F
+D42CH119,6/6/2014,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,177929,9949418,12:10,1776,P/F
+D51CH148,6/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177961,9949439,9:34,1798,P/F
+D3CH11,8/3/2014,Chaco,Mammalia,Rodentia,Cricetidae,N/I,18M,178320,9949866,10:47,1821,P/F
+D56CO118,7/13/14,Cotundo,Reptilia,Squamata,Colubridae,Atractus sp.,18M,179128,9941426,11:35,1878,P/F
+D70CO150,8/19/14,Cotundo,Aves,,,,18M,179750,9938291,13:45,1883,P/F
+D70CO149,8/19/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179944,9937646,13:01,1910,P/F
+D47CO107,6/20/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179973,9944841,11:13,1835,P/F
+D26CO42,4/26/14,Cotundo,Mammalia,Rodentia,Cricetidae,,18M,180088,9937620,13:44,1930,P/F
+D26CO41,4/26/14,Cotundo,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,18M,180129,9937616,13:37,1924,P/F
+D38CO78,5/25/14,Cotundo,Aves,,,,18M,180171,9936698,10:51,1967,P/F
+D25CO37,4/25/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180176,9936604,12:19,1949,P/F
+D38CO79,5/25/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180176,9936646,10:53,1965,P/F
+D25CO38,4/25/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180179,9936614,12:24,1949,P/F
+D25CO39,4/25/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180179,9936622,12:30,1969,P/F
+D24CO31,4/18/14,Cotundo,Mammalia,Rodentia,Cricetidae,,18M,180197,9936827,9:33,1963,P/F
+D24CO30,4/18/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180198,9936862,9:27,1955,P/F
+D24CO29,4/18/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180199,9936861,9:27,1953,P/F
+D3C04,8/3/2014,Cotundo,Mammalia,N/I,N/I,N/I,18M,180200,9945412,16:32,1860,P/F
+D40CO96,5/31/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180344,9947074,14:04,1858,P/F
+D12CO16,3/28/14,Cotundo,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,18M,180461,9936651,14:38,1972,P/F
+D31CO52,3/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180581,9947621,17:06,1860,P/F
+D31CO53,3/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180591,9947637,17:08,1865,P/F
+D31CO51,3/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180613,9947651,17:03,1858,P/F
+D31CO54,3/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180637,9947663,17:11,1860,P/F
+D69CO148,8/18/14,Cotundo,Aves,Passeriformes,,,18M,180952,9948073,13:37,1851,P/F
+D22CO26,4/16/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,181141,9948231,12:20,1883,P/F
+D31CO50,3/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184110,9931860,15:50,2180,P/F
+D25CO36,4/25/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184138,9932105,11:29,2176,P/F
+D57CO120,7/19/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184417,9932688,12:14,2162,P/F
+D39CH104,5/30/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185647,9956039,11:19,1630,P/F
+D39CH106,5/30/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185908,9959465,11:34,1617,P/F
+D39CH105,5/30/14,Chaco,Reptilia,Squamata,Colubridae,,18M,185917,9959466,11:32,1622,P/F
+D36CH90,5/18/14,Chaco,Aves,Passeriformes,Furnariidae,Synallaxis sp.,18M,186034,9958685,12:05,1602,P/F
+D36CH91,5/18/14,Chaco,Reptilia,Squamata,Colubridae,Clelia sp.,18M,186100,9958680,12:08,1601,P/F
+D40CH109,5/31/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,186541,9961837,10:50,1629,P/F
+D38CH98,5/25/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,189174,9964493,15:08,1476,P/F
+D54CH162,11/7/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,189866,9965912,10:27,1504,P/F
+D40CH108,5/31/14,Chaco,Reptilia,Squamata,Colubridae,,18M,190413,9967120,10:01,1548,P/F
+D46CH135,6/15/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,190426,9967128,14:23,1554,P/F
+D71CH215,8/20/14,Chaco,Aves,,,,18M,190702,9967890,15:58,1621,P/F
+D66CH204,10/8/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,191017,9967006,13:33,1713,P/F
+D70PA115,8/19/14,Papallacta,Mammalia,Rodentia,,,17M,820436,9958429,11:41,2969,P/F
+D13PA26,3/29/14,Papallacta,Mammalia,Carnivora,Mephitidae,Conepatus semistriatus,17M,820841,9958736,12:13,2970,P/F
+D29PA41,1/5/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820889,9958719,8:53,2941,P/F
+D39PA59,5/30/14,Papallacta,Mammalia,Carnivora,Mephitidae,Conepatus semistriatus,17M,820937,9958737,9:17,2950,P/F
+D37PA55,5/24/14,Papallacta,Aves,Passeriformes,Emberizidae,,17M,822873,9952660,13:34,2859,P/F
+D11PA24,3/27/14,Papallacta,Mammalia,Carnivora,Mustelidae,Mustela frenata,17M,824469,9959399,16:48,2769,P/F
+D26PA37,4/26/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,826403,9957685,9:10,2670,P/F
+D41PA64,1/6/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,828461,9955983,9:16,2529,P/F
+D71PA118,8/20/14,Papallacta,Aves,Apodiformes,Trochilidae,,17M,830762,9954499,13:32,2430,P/F
+D35PA52,5/17/14,Papallacta,Aves,Passeriformes,Thraupidae,Pipraeidea melanonota,17M,832268,9953708,10:03,2380,P/F
+D34PA47,5/16/14,Papallacta,Aves,Passeriformes,Thraupidae,,17M,833475,9952870,10:06,2370,P/F
+D62PA98,2/8/2014,Papallacta,Mammalia,Carnivora,Mephitidae,Conepatus semistriatus,17M,833670,9952805,11:09,2390,P/F
+D24PA35,4/18/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,175158,9948760,13:24,1879,U
+D27CO43,4/29/14,Cotundo,Aves,Passeriformes,,,18M,178614,9948597,15:24,1915,U
+D1CO1,6/3/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180625,9936104,16:31,1979,U
+D47CO108,6/20/14,Cotundo,Mammalia,,,,18M,180661,9935879,12:14,1947,U
+D14CO17,3/30/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180795,9935774,11:07,1954,U
+D37CH95,5/24/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,182475,9952336,11:34,1775,U
+D1CH1,6/3/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,183086,9953250,8:37,1736,U
+D34CH80,5/16/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,183297,9953477,11:17,1740,U
+D15CH42,7/4/2014,Chaco,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,183621,9954013,17:59,1718,U
+D18CH46,10/4/2014,Chaco,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,183637,9954051,13:31,1724,U
+D1CO2,6/3/2014,Cotundo,Aves,Passeriformes,Troglodytidae,Troglodytes aedon,18M,184199,9932350,17:34,2158,U
+D1CH2,6/3/2014,Chaco,Aves,Piciformes,Picidae,Dryocopus lineatus,18M,185780,9956373,8:40,1621,U
+D1CH3,6/3/2014,Chaco,Aves,Cuculiformes,Cuculidae,Crotophaga ani,18M,185824,9956487,8:44,1619,U
+D1CH4,6/3/2014,Chaco,Aves,Gruiformes,Rallidae,Porphyrula sp.,18M,187963,9963388,9:14,1556,U
+D3C05,8/3/2014,Cotundo,Reptilia,Squamata,Colubridae,Chironius monticola,18M,179381,9940575,17:04,1930,U/F
+D7CH23,12/3/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,183534,9953845,13:01,1725,U/P
+D7CH22,12/3/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,183566,9953903,12:52,1720,U/P
+D2CH5,7/3/2014,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,183646,9954069,11:52,1724,U/P
+D3CH13,8/3/2014,Chaco,Reptilia,Squamata,Colubridae,,18M,183646,9954067,11:24,1720,U/P
+D3CH14,8/3/2014,Chaco,Aves,Passeriformes,Tyrannidae,,18M,186119,9957183,11:50,1594,U/P
+D2CH8,7/3/2014,Chaco,Aves,Passeriformes,,,18M,186297,9961438,13:29,1521,U/P
+D12CH33,3/28/14,Chaco,Aves,Passeriformes,,,18M,186634,9962071,12:15,1629,U/P
+D2CH7,7/3/2014,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,188299,9963534,13:08,1543,U/P
+D2CH9,7/3/2014,Chaco,Aves,Cuculiformes,Cuculidae,Crotophaga ani,18M,189515,9965260,14:44,1614,U/P
+D50CH147,6/28/14,Chaco,Mammalia,Rodentia,,,18M,189645,9965413,15:29,1521,U/P
+D41CO99,1/6/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,177893,9948922,11:56,1921,U/F
+D62CO132,2/8/2014,Cotundo,Reptilia,Squamata,Colubridae,Clelia sp.,18M,177931,9948499,11:56,1945,U/P
+D52CO113,5/7/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179013,9948601,10:29,1903,C
+D52CO114,5/7/2014,Cotundo,Aves,Apodiformes,Trochilidae,,18M,179024,9948599,10:31,1899,C
+D51CH154,6/29/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184632,9955436,11:23,1659,C
+D51CH155,6/29/14,Chaco,Mammalia,Chiroptera,,,18M,184634,9955436,11:23,1658,C
+D51CH156,6/29/14,Chaco,Reptilia,Squamata,,,18M,184659,9955453,11:29,1654,C
+D51CH157,6/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184682,9955468,11:32,1662,C
+D51CH153,6/29/14,Chaco,Aves,Passeriformes,Troglodytidae,Troglodytes aedon,18M,185950,9956801,11:15,1596,C
+D51CH152,6/29/14,Chaco,Reptilia,Squamata,,,18M,186118,9957191,11:12,1586,C
+D51CH151,6/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186127,9957208,11:07,1586,C
+D66CH203,10/8/2014,Chaco,Aves,Passeriformes,Tyrannidae,,18M,186158,9957307,13:04,1573,C
+D48CH143,6/21/14,Chaco,Aves,Passeriformes,,,18M,188749,9963890,11:09,1531,C
+D67C0145,8/15/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181103,9948945,10:13,1916,C/S
+D48CH142,6/21/14,Chaco,Mammalia,Rodentia,Cricetidae,,18M,185197,9955630,10:17,1661,C/S
+D39CO80,5/30/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181094,9948929,14:10,1911,F/C
+D62CH187,2/8/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190928,9966829,16:05,1720,F/C
+D39CH107,5/30/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,189856,9965632,11:54,1514,C/U
+D34PA49,5/16/14,Papallacta,Aves,Passeriformes,Turdidae,Platycichla leucops,18M,172604,9949728,10:30,1951,C/P
+D64PA100,8/8/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,172617,9949715,11:55,1935,C/P
+D57CH175,7/19/14,Chaco,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,184637,9955446,14:05,1655,C/P
+D44CH125,8/6/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184675,9955457,13:45,1654,C/P
+D57CH176,7/19/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184699,9955467,14:09,1654,C/P
+D57CH174,7/19/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184717,9955481,14:01,1661,C/P
+D39CH103,5/30/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185638,9956026,11:16,1624,C/P
+D37CH93,5/24/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185759,9956295,9:59,1623,C/P
+D44CH126,8/6/2014,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,185813,9956464,13:52,1610,C/P
+D67CH206,8/15/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185913,9958812,15:28,1612,C/P
+D40CH110,5/31/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185921,9958926,11:01,1612,C/P
+D66CH205,10/8/2014,Chaco,Aves,,,,18M,186552,9961792,14:06,1621,C/P
+D54CH164,11/7/2014,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,186686,9962125,11:08,1618,C/P
+D49CH146,6/22/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,188687,9963825,13:01,1535,C/P
+D41CH116,1/6/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,189822,9966094,14:07,1494,C/P
+D41CH117,1/6/2014,Chaco,Amphibia,Anura,Craugastoridae,Pristimantis sp.,18M,189839,9966135,14:12,1500,C/P
+D51CH150,6/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190724,9967906,10:45,1618,C/P
+D59PA91,7/25/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,166112,9952668,13:17,2352,P
+D37PA56,5/24/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,166135,9952660,13:58,2355,P
+D59PA92,7/25/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,167427,9952724,13:24,2286,P
+D67PA104,8/15/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,171863,9950118,12:20,1952,P
+D9PA16,3/14/14,Papallacta,Mammalia,Carnivora,Felidae,Herpailurus  yagouaroundi,18M,171890,9950122,13:01,1962,P
+D21PA32,4/15/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,171910,9950106,9:32,1956,P
+D11PA23,3/27/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,172191,9950010,16:01,1953,P
+D34PA48,5/16/14,Papallacta,Aves,,,,18M,172266,9949957,10:25,1954,P
+D9PA15,3/14/14,Papallacta,Reptilia,Squamata,Colubridae,Dipsas peruana,18M,172439,9949837,12:38,1943,P
+D60PA94,7/26/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,173024,9949493,15:13,1923,P
+D6PA13,11/3/2014,Papallacta,Reptilia,Squamata,Colubridae,Chironius monticola,18M,173879,9949150,14:10,1914,P
+D33PA44,10/5/2014,Papallacta,Reptilia,Squamata,Colubridae,Clelia sp.,18M,173923,9949104,12:28,1909,P
+D70PA113,8/19/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,173950,9949067,10:55,1927,P
+D43PA68,7/6/2014,Papallacta,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,173985,9949039,12:03,1912,P
+D33PA46,10/5/2014,Papallacta,Aves,,,,18M,174157,9948702,14:38,1911,P
+D6PA11,11/3/2014,Papallacta,Aves,Passeriformes,,,18M,175419,9948493,11:59,1879,P
+D48PA75,6/21/14,Papallacta,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,175445,9948490,13:41,1872,P
+D28PA39,4/30/14,Papallacta,Reptilia,Squamata,Colubridae,,18M,175685,9948437,12:43,1850,P
+D28PA40,4/30/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,175754,9948444,12:46,1868,P
+D15PA30,7/4/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,175990,9948445,12:33,1849,P
+D41PA66,1/6/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176112,9948456,9:52,1827,P
+D48CH140,6/21/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176979,9948897,9:50,1821,P
+D44CH123,8/6/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177181,9948917,13:20,1811,P
+D48CH144,6/21/14,Chaco,Aves,Passeriformes,,,18M,177224,9948919,11:44,1798,P
+D48CH145,6/21/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,177225,9948929,11:45,1808,P
+D47CH136,6/20/14,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,177265,9948950,8:44,1804,P
+D24CO34,4/18/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177298,9948537,11:03,1884,P
+D34CH86,5/16/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177346,9949002,13:25,1803,P
+D39CH100,5/30/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177475,9949196,10:48,1796,P
+D41CH112,1/6/2014,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,177525,9949296,13:07,1797,P
+D41CH113,1/6/2014,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,177532,9949298,13:11,1799,P
+D45CH127,6/14/14,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,177628,9949321,10:31,1796,P
+D40CH111,5/31/14,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,177667,9949337,11:24,1792,P
+D21CH53,4/15/14,Chaco,Aves,,,,18M,178351,9950019,11:44,1827,P
+D72CH217,8/21/14,Chaco,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,178442,9950055,14:58,1841,P
+D4CH18,9/3/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,178593,9949946,16:30,1837,P
+D39CH101,5/30/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,178651,9949959,10:54,1842,P
+D30CO47,2/5/2014,Cotundo,Aves,Passeriformes,Turdidae,,18M,178673,9948594,12:10,1903,P
+D27CO44,4/29/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,178677,9948594,15:27,1911,P
+D47CO106,6/20/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,178701,9948600,10:59,1895,P
+D32CO55,4/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,178725,9948601,10:12,1907,P
+D40CO98,5/31/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,178797,9948603,14:16,1902,P
+D11CO15,3/27/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,178831,9948601,12:27,1903,P
+D40CO97,5/31/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,178846,9948606,14:14,1897,P
+D8CO12,3/13/14,Cotundo,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,179097,9948596,13:02,1900,P
+D24CO32,4/18/14,Cotundo,Reptilia,Squamata,,,18M,179140,9941623,10:35,1873,P
+D33CO66,10/5/2014,Cotundo,Reptilia,Squamata,Colubridae,,18M,179142,9941531,11:37,1885,P
+D72CO154,8/21/14,Cotundo,Mammalia,Chiroptera,Molossidae,,18M,179160,9948600,9:49,1900,P
+D25CO35,4/25/14,Cotundo,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,179192,9948598,10:49,1903,P
+D39CO87,5/30/14,Cotundo,Aves,,,,18M,179219,9948608,16:18,1904,P
+D44CO103,8/6/2014,Cotundo,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,179249,9941863,12:01,1863,P
+D54CO116,11/7/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179317,9941980,14:45,1874,P
+D66CO142,10/8/2014,Cotundo,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,179372,9940556,10:30,1903,P
+D71CO152,8/20/14,Cotundo,Aves,Passeriformes,Icteridae,Psarocolius angustifrons,18M,179378,9942318,11:33,1869,P
+D37CO75,5/24/14,Cotundo,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,18M,179379,9942304,16:18,1880,P
+D71CO151,8/20/14,Cotundo,Aves,Passeriformes,Icteridae,Psarocolius angustifrons,18M,179380,9942355,11:30,1869,P
+D71CO153,8/20/14,Cotundo,Mammalia,Lagomorpha,Leporidae,Sylvilagus brasilensis,18M,179381,9942337,11:45,1873,P
+D40CO91,5/31/14,Cotundo,Aves,,,,18M,179383,9942531,12:30,1873,P
+D72CO156,8/21/14,Cotundo,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,179387,9948611,11:32,1892,P
+D28CO45,4/30/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179402,9942923,10:52,1857,P
+D59CO122,7/25/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179415,9942956,14:56,1859,P
+D32CO57,4/5/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,179479,9943747,10:33,1822,P
+D32CO58,4/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179516,9940425,10:46,1891,P
+D61CO130,7/27/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179521,9940413,12:11,1901,P
+D67C0143,8/15/14,Cotundo,Mammalia,Chiroptera,Phillostomidae,Rhinophylla sp.,18M,179572,9948652,10:05,1887,P
+D37CO71,5/24/14,Cotundo,Aves,,,,18M,179598,9948667,15:47,1895,P
+D67C0144,8/15/14,Cotundo,Aves,,,,18M,179624,9948673,10:07,1890,P
+D33CO65,10/5/2014,Cotundo,Aves,Passeriformes,,,18M,179642,9940113,10:26,1892,P
+D33CO62,10/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179652,9944103,10:01,1805,P
+D33CO63,10/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179655,9944106,10:05,1806,P
+D33CO64,10/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179656,9944105,10:05,1806,P
+D3C06,8/3/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179663,9939564,17:14,1920,P
+D67C0146,8/15/14,Cotundo,Aves,Passeriformes,Tyrannidae,,18M,179672,9939571,11:16,1916,P
+D35CO69,5/17/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179681,9939511,11:20,1910,P
+D29CH66,1/5/2014,Chaco,Aves,Passeriformes,Emberizidae,Ammodramus aurifrons,18M,179741,9950104,10:07,1865,P
+D66CH200,10/8/2014,Chaco,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,179743,9950106,12:35,1866,P
+D28CO46,4/30/14,Cotundo,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,179765,9939178,11:02,1903,P
+D35CO68,5/17/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,179776,9944500,11:06,1822,P
+D8CH25,3/13/14,Chaco,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,179784,9950154,11:56,1864,P
+D5CO8,10/3/2014,Cotundo,Aves,Passeriformes,Icteridae,Psarocolius angustifrons,18M,179789,9944510,12:44,1815,P
+D40CO92,5/31/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,179794,9938139,12:42,1902,P
+D40CO93,5/31/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,179794,9938134,12:43,1902,P
+D5CO9,10/3/2014,Cotundo,Aves,Passeriformes,Tyrannidae,,18M,179797,9944523,12:48,1831,P
+D25CO40,4/25/14,Cotundo,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,179926,9937694,12:39,1920,P
+D15CO21,7/4/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180020,9944945,15:47,1836,P
+D40CO94,5/31/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180029,9937623,12:51,1916,P
+D51C0111,6/29/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,180144,9948600,13:27,1907,P
+D51CO112,6/29/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180151,9948603,13:28,1908,P
+D37CO72,5/24/14,Cotundo,Reptilia,Squamata,Colubridae,,18M,180162,9948602,15:53,1907,P
+D44CH124,8/6/2014,Chaco,Aves,,,,18M,180172,9950462,13:32,1857,P
+D64CH193,8/8/2014,Chaco,Aves,,Cathartidae,,18M,180183,9950468,14:29,1852,P
+D36CO70,5/18/14,Cotundo,Reptilia,Squamata,Colubridae,Clelia sp.,18M,180311,9946776,9:37,1866,P
+D14CH38,3/30/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180404,9950649,12:26,1854,P
+D66CH201,10/8/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,180414,9950663,12:40,1850,P
+D33CO61,10/5/2014,Cotundo,Reptilia,Squamata,Colubridae,Dipsas peruana,18M,180749,9948901,9:48,1918,P
+D37CH92,5/24/14,Chaco,Mammalia,Rodentia,,,18M,180777,9950960,9:44,1840,P
+D64CO140,8/8/2014,Cotundo,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,180785,9948912,10:08,1918,P
+D18CO22,10/4/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180810,9948923,16:05,1925,P
+D48CH141,6/21/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180864,9951038,10:01,1824,P
+D18CH45,10/4/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas gracilis,18M,180872,9951049,13:17,1831,P
+D63CO139,3/8/2014,Cotundo,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,180917,9948968,13:06,1923,P
+D32CH74,4/5/2014,Chaco,Mammalia,Chiroptera,Phyllostomidae,Anoura sp.,18M,180989,9951150,13:18,1826,P
+D34CH85,5/16/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,181061,9951222,13:14,1828,P
+D51CH149,6/29/14,Chaco,Mammalia,Chiroptera,Phyllostomidae,Rhinophylla sp.,18M,181107,9951248,9:42,1828,P
+D55CH171,12/7/2014,Chaco,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,181111,9951247,12:59,1833,P
+D55CO117,12/7/2014,Cotundo,Aves,Passeriforme,Emberizidae,Zonotrichia capensis,18M,181254,9935734,10:24,1954,P
+D27CH63,4/29/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,181344,9951440,10:50,1821,P
+D56CH172,7/13/14,Chaco,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,181412,9951485,8:59,1818,P
+D56CH173,7/13/14,Chaco,Aves,Passeriformes,,,18M,181467,9951520,9:01,1819,P
+D62CH186,2/8/2014,Chaco,Aves,Passeriformes,Icteridae,Psarocolius angustifrons,18M,181480,9951538,15:15,1806,P
+D12CH32,3/28/14,Chaco,Aves,Passeriformes,,,18M,181520,9951557,10:48,1825,P
+D9CH26,3/14/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181796,9951734,9:59,1826,P
+D19CH48,11/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181802,9951737,12:42,1825,P
+D46CH131,6/15/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181815,9951745,13:29,1828,P
+D62CO135,2/8/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181836,9935409,12:31,1970,P
+D46CH130,6/15/14,Chaco,Aves,Passeriformes,Thraupidae,Diglossa albilatera,18M,181853,9951764,13:25,1822,P
+D24CH58,4/18/14,Chaco,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,181940,9951810,11:34,1821,P
+D53CO115,6/7/2014,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,182010,9935270,12:48,1969,P
+D25CH60,4/25/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,182619,9952650,13:51,1749,P
+D41CH114,1/6/2014,Chaco,Mammalia,Chiroptera,Phyllostomidae,,18M,182635,9952687,13:26,1743,P
+D32CO59,4/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,182892,9934215,11:01,2026,P
+D62CO136,2/8/2014,Cotundo,Aves,Passeriformes,Corvidae,Cyanocorax Yncas,18M,183695,9933196,12:59,2121,P
+D33CH78,10/5/2014,Chaco,Amphibia,Anura,,,18M,183740,9954524,17:19,1714,P
+D71CH216,8/20/14,Chaco,Aves,Passeriformes,Troglodytidae,Troglodytes aedon,18M,183741,9954526,16:36,1718,P
+D45CH128,6/14/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,183757,9954542,10:46,1713,P
+D72CH224,8/21/14,Chaco,Mammalia,Rodentia,Dasyproctidae,Dasyprocta fuliginosa,18M,183797,9954608,17:03,1714,P
+D34CH83,5/16/14,Chaco,Aves,Passeriformes,Emberizidae,Ammodramus aurifrons,18M,183849,9954678,12:58,1703,P
+D64CH194,8/8/2014,Chaco,Aves,,,,18M,183849,9954670,14:43,1698,P
+D34CH84,5/16/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,183851,9954678,13:01,1703,P
+D38CO77,5/25/14,Cotundo,Mammalia,Chiroptera,,,18M,183879,9933149,10:38,2135,P
+D37CO76,5/24/14,Cotundo,Reptilia,Squamata,Colubridae,Atractus sp.,18M,183970,9933116,16:46,2138,P
+D46CH132,6/15/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184017,9954877,13:41,1702,P
+D46CH133,6/15/14,Chaco,Mammalia,Rodentia,Cricetidae,,18M,184056,9954933,13:46,1690,P
+D40CO95,5/31/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184197,9932495,13:06,2165,P
+D27CH64,4/29/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184255,9955173,11:01,1663,P
+D61CH184,7/27/14,Chaco,Mammalia,Rodentia,Sciuridae,Microsciurus flaviventer,18M,184321,9955233,10:57,1669,P
+D45CH129,6/14/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184326,9955235,12:03,1679,P
+D63CH190,3/8/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184354,9955246,10:14,1668,P
+D63CH189,3/8/2014,Chaco,Aves,Passeriformes,,,18M,184380,9955263,10:10,1670,P
+D23CH57,4/17/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184445,9955315,11:50,1665,P
+D15CH39,7/4/2014,Chaco,Aves,Falconiformes,Accipitridae,,18M,184536,9955372,16:33,1664,P
+D58CH178,7/20/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184580,9955398,9:45,1657,P
+D31CH72,3/5/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184737,9955491,10:22,1663,P
+D58CH180,7/20/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184924,9955568,10:51,1657,P
+D8CH24,3/13/14,Chaco,Reptilia,Squamata,Colubridae,,18M,184963,9955571,11:40,1676,P
+D66CH202,10/8/2014,Chaco,Mammalia,,,,18M,185089,9955588,12:55,1656,P
+D47CH137,6/20/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185257,9955694,9:04,1657,P
+D29CH69,1/5/2014,Chaco,Aves,,,,18M,185690,9956109,11:41,1619,P
+D11CH30,3/27/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185699,9956140,9:54,1617,P
+D11CH31,3/27/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas peruana,18M,185702,9956143,9:59,1619,P
+D29CH68,1/5/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185704,9956142,11:37,1619,P
+D31CH73,3/5/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185905,9956688,11:55,1609,P
+D22CH54,4/16/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,185925,9958909,13:55,1606,P
+D46CH134,6/15/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185987,9959545,13:59,1625,P
+D43CH121,7/6/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186052,9957016,9:48,1581,P
+D16CH43,8/4/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186144,9960432,10:04,1623,P
+D43CH122,7/6/2014,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,186154,9959632,9:58,1640,P
+D64CH197,8/8/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,186163,9960140,15:05,1626,P
+D72CH222,8/21/14,Chaco,Aves,,,,18M,186208,9957559,16:50,1584,P
+D72CH221,8/21/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,186213,9957547,16:48,1584,P
+D72CH223,8/21/14,Chaco,Aves,Passeriformes,Emberizidae,Zonotrichia capensis,18M,186213,9957573,16:53,1579,P
+D41CH118,1/6/2014,Chaco,Mammalia,,,N/I,18M,186232,9957611,15:14,1584,P
+D29CH67,1/5/2014,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,186599,9962034,10:31,1630,P
+D69CH210,8/18/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,189206,9964629,17:57,1485,P
+D41CH115,1/6/2014,Chaco,Amphibia,Anura,Bufonidae,Rhinella marina,18M,189211,9964856,14:00,1511,P
+D35PA50,5/17/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820764,9958654,9:29,2950,P
+D9PA17,3/14/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820874,9958718,13:46,2952,P
+D14PA28,3/30/14,Papallacta,Aves,Passeriformes,Emberizidae,Ammodramus sp.,17M,821091,9958799,8:11,2921,P
+D68PA107,8/16/14,Papallacta,Mammalia,Rodentia,Erethizontidae,Coendou sp.,17M,821234,9958913,13:04,2927,P
+D39PA61,5/30/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,822920,9959100,9:40,2857,P
+D35PA51,5/17/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,823608,9959285,9:37,2818,P
+D6PA12,11/3/2014,Papallacta,Aves,Cuculiformes,Cuculidae,Crotophaga ani,17M,823700,9959315,12:52,2793,P
+D55PA89,12/7/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,827235,9956946,14:36,2606,P
+D16PA31,8/4/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,828046,9956235,12:22,2548,P
+D45PA71,6/14/14,Papallacta,Mammalia,Carnivora,Felidae,Herpailurus  yagouaroundi,17M,828094,9956210,9:18,2552,P
+D71PA119,8/20/14,Papallacta,Aves,Passeriformes,,,17M,829455,9954826,14:21,2498,P
+D60PA95,7/26/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,830375,9954677,15:35,2466,P
+D69PA110,8/18/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,830657,9954612,16:40,2459,P
+D8PA14,3/13/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,833313,9953112,16:21,2425,P
+D27PA38,4/29/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,833528,9952830,13:02,2406,P
+D68PA105,8/16/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,166124,9952675,12:13,2354,P/S
+D50PA80,6/28/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,171592,9950236,11:53,1967,P/S
+D49PA77,6/22/14,Papallacta,Mammalia,Rodentia,,,18M,174027,9948962,15:13,1915,P/S
+D65CH199,9/8/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177494,9949070,9:49,1796,P/S
+D61CO128,7/27/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180334,9948827,11:42,1910,P/S
+D48CO109,6/21/14,Cotundo,Amphibia,Gymnophiona,Caeciliidae,Caecilia sp.,18M,184356,9932637,15:09,2173,P/S
+D58CH179,7/20/14,Chaco,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,190685,9967507,10:23,1585,P/S
+D49PA78,6/22/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820208,9958354,15:56,2995,P/S
+D50PA83,6/28/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,820511,9958511,12:41,2961,P/S
+D25PA36,4/25/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,170780,9950928,17:44,2053,P/F
+D22PA34,4/16/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,173893,9949133,9:45,1918,P/F
+D10PA19,3/15/14,Papallacta,Reptilia,Squamata,Colubridae,Chironius sp.,18M,174227,9948683,13:43,1910,P/F
+D31PA42,3/5/2014,Papallacta,Aves,,,,18M,174393,9948738,14:07,1908,P/F
+D69PA111,8/18/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,174523,9948776,17:06,1905,P/F
+D39PA62,5/30/14,Papallacta,Aves,Galliformes,Cracidae,Penelope montagnii,18M,174852,9948924,10:20,1923,P/F
+D11PA20,3/27/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176036,9948450,15:34,1851,P/F
+D53PA86,6/7/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,176278,9948560,9:32,1837,P/F
+D34CH79,5/16/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,177348,9949003,11:02,1815,P/F
+D25CH59,4/25/14,Chaco,Aves,Passeriformes,Troglodytidae,Troglodytes aedon,18M,177393,9949026,13:33,1818,P/F
+D64CO141,8/8/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179583,9939786,10:27,1937,P/F
+D31CO49,3/5/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179745,9938500,15:03,1893,P/F
+D60CO124,7/26/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,179761,9938309,10:02,1900,P/F
+D39CO81,5/30/14,Cotundo,Mammalia,Rodentia,Echimyidae,,18M,179894,9937800,14:31,1920,P/F
+D37CO73,5/24/14,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,180334,9948835,15:57,1909,P/F
+D62CO134,2/8/2014,Cotundo,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,181073,9948731,12:09,1907,P/F
+D22CO25,4/16/14,Cotundo,Reptilia,Squamata,Colubridae,Dipsas sp.,18M,181125,9948279,10:41,1884,P/F
+D37CO74,5/24/14,Cotundo,Reptilia,Squamata,Colubridae,Dipsas peruana,18M,181149,9948367,16:06,1893,P/F
+D10CO14,3/15/14,Cotundo,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184039,9931777,8:21,2192,P/F
+D44CO100,8/6/2014,Cotundo,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184184,9932318,10:56,2160,P/F
+D32CH77,4/5/2014,Chaco,Aves,,,,18M,186318,9961474,15:00,1616,P/F
+D32CH76,4/5/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,186324,9961467,14:57,1607,P/F
+D25CH61,4/25/14,Chaco,Reptilia,Squamata,Elapidae,Micrurus sp.,18M,189266,9964347,15:04,1478,P/F
+D27CH65,4/29/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,190109,9966519,11:27,1517,P/F
+D32CH75,4/5/2014,Chaco,Mammalia,Rodentia,Sciuridae,Notosciurus granatensis,18M,190368,9967083,14:33,1547,P/F
+D50PA82,6/28/14,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,824408,9959388,12:32,2817,P/F
+D44PA69,8/6/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,17M,832167,9953827,9:36,2405,P/F
+D3PA8,8/3/2014,Papallacta,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,173084,9949485,8:47,1929,P/F
+D44CO104,8/6/2014,Cotundo,Aves,Passeriformes,Hirundinidae,Notiochelidon cyanoleuca,18M,177768,9948805,12:55,1917,P/F
+D12CH36,3/28/14,Chaco,Aves,Passeriformes,,,18M,183717,9954445,12:46,1718,P/F
+D70CH212,8/19/14,Chaco,Aves,Passeriformes,,,18M,176735,9948892,7:53,1834,U/P
+D70CH211,8/19/14,Chaco,Aves,Passeriformes,,,18M,176736,9948895,7:52,1834,U/P
+D44CO102,8/6/2014,Cotundo,Aves,Passeriformes,,,18M,181881,9935387,11:44,1963,U/P
+D44CO101,8/6/2014,Cotundo,Aves,Passeriformes,,,18M,181886,9935388,11:41,1976,U/P
+D35CH87,5/17/14,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184821,9955520,14:15,1676,U/P
+D37CH94,5/24/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,186540,9961803,11:15,1622,U/P
+D55CH166,12/7/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,177469,9949207,11:12,1789,C/P
+D37CH97,5/24/14,Chaco,Aves,Passeriformes,,,18M,180478,9950720,11:54,1853,C/P
+D12CH35,3/28/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,184108,9955011,12:39,1682,C/P
+D30CH71,2/5/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,184415,9955295,11:25,1661,C/P
+D12CH34,3/28/14,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,185203,9955626,12:32,1661,C/P
+D6CH20,11/3/2014,Chaco,Mammalia,Didelphimorphia,Didelphidae,Didelphis pernigra,18M,189308,9964234,16:16,1508,C/P
+D55CH168,12/7/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,189841,9966152,12:19,1497,C/P
+D55CH169,12/7/2014,Chaco,Reptilia,Squamata,Colubridae,Atractus sp.,18M,189965,9965833,12:25,1504,C/P
